@@ -26,6 +26,9 @@
     "ios": {
       "supportsTablet": true
     },
+    "android": {
+      "package": "br.com.workfow.aircnc"
+    },
     "androidStatusBar": {
       "barStyle": "dark-content",
       "backgroundColor": "#ffffff"

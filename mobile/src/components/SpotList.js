@@ -4,8 +4,6 @@ import { withNavigation } from 'react-navigation';
 
 import api from '../services/api';
 
-import robin from '../assets/Robin_Transparent.png';
-
 function SpotList({ tech, navigation }) {
   const [spots, setSpots] = useState([]);
 

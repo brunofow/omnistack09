@@ -24,7 +24,38 @@
   font-size: 24px;
   color: #444;
 }
+
 .spot-list li span {
   font-size: 15px;
   color: #999;
+}
+
+.notifications {
+  list-style: none;
+  margin-bottom: 15px;
+
+}
+
+.notifications li {
+  font-size: 16px;
+  line-height: 24px;
+}
+
+.notifications li button {
+  margin-right: 10px;
+  border: 0;
+  font-weight: bold;
+  margin-top: 10px;
+  background: none;
+  cursor: pointer;
+}
+
+.accept {
+  color: #84c870;
+  background: none;
+}
+
+.reject {
+  color: #e55e5e;
+  background: none;
 }
